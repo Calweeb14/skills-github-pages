@@ -1,4 +1,4 @@
----
-title: Welcome to the wiki
----
+<body>
+<h1>HELLO</h1>
+</body>
 
